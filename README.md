@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bam</h1>
-<h3 align="center">Kernel & Web3 Security Researcher | Exploit Developer</h3>
+<h4 align="center">Linux Kernel & Web3 Security Researcher | Reverse Engineer & Exploit Developer</h4>
 
 - 🔭 I’m currently working on **KernelCTF exploit development**
 - 🌱 I’m currently learning **Solidity internals, ABI decoding, and EVM reverse engineering**
@@ -14,11 +14,13 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Ghidra](https://img.shields.io/badge/-Ghidra-05122A?style=flat&logo=ghidra)
+
 
 ### 🧰 Tools & Arsenal
-- QEMU, GDB, Pwntools, radare2, Ghidra, IDA Pro, V8 Debugging
+- QEMU, GDB, Pwntools, radare2, Ghidra, IDA Pro,
 - solc, Hardhat, Foundry, Remix, Panoramix, Slither
+
+Passionate about low-level systems, memory corruption, and smart contract vulnerabilities. 
 
 
 ### 📈 GitHub Stats
