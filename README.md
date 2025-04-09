@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Solidity internals, ABI decoding, and EVM reverse engineering**
 - 💬 Ask me about **Linux kernel exploitation, V8 fuzzing, Solidity ABI, low-level reversing**
 - 📫 How to reach me: **bam.hackerone@gmail.com**
-- ⚡ Fun fact: I love reading kernel source code more than reading novels 😂
+- ⚡ Fun fact: I love reading linux kernel source code more than reading novels 😂
 
 ### 🧠 Skills
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
