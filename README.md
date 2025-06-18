@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bam</h1>
 <h3 align="center">Linux Kernel & Web3 Security Researcher | Reverse Engineer & Exploit Developer</h3>
 
-- 🔭 I’m currently working on **KernelCTF & Bug bounty**
+- 🔭 I’m currently working on **KernelCTF & Web3 bug bounty**
 - 🌱 I’m currently learning **Solidity internals, and EVM reverse engineering**
-- 💬 Ask me about **Linux kernel exploitation, V8 fuzzing, low-level reversing**
+- 💬 Ask me about **Linux kernel exploitation, Web3 security, and low-level reversing**
 - 📫 How to reach me: **bam.hackerone@gmail.com**
 - ⚡ Fun fact: I love reading linux kernel source code more than reading novels 😂
 
