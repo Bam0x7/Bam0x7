@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **KernelCTF & Web3 bug bounty**
 - 🌱 I’m currently learning **Solidity internals, and EVM reverse engineering**
 - 💬 Ask me about **Linux kernel exploitation, Web3 security, and low-level reversing**
-- 📫 How to reach me: **bam.hackerone@gmail.com**
 - ⚡ Fun fact: I love reading linux kernel source code more than reading novels 😂
 
 ### 🧠 Skills
