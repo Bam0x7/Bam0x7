@@ -29,4 +29,4 @@ Passionate about low-level systems, memory corruption, and smart contract vulner
 
 ---
 
-✨ Inspired by real-world 0days. Always learning, always hacking.
+✨ Always learning, always hacking.
